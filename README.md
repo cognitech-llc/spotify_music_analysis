@@ -2,9 +2,9 @@
 
 ## Exploration of song popularity on Spotify
 
-The purpose of these analyses was to determine the perfect elements to create a chart topping song. The data source was the Spotify API.
+The purpose of these analyses was to determine the perfect elements to create a chart topping song. The data source was the Spotify API, which can be accessed after getting an API token.
 
-[Spotify](Images/spotify.png)
+![Spotify](Images/spotify.png)
 
 * Use the Spotify API to query for songs in 'Top Lists' playlist category using [/Analyses/nltk_lyric-sentiment_scores.ipynb](https://github.com/finianoneill/music-analysis/blob/master/elize-papineau/nltk_lyric-sentiment_scores.ipynb)
 * Get song lyrics using Genius API using [/finian/Notebooks/Genius_API_Get-tracks-and-lyrics.ipynb](https://github.com/finianoneill/music-analysis/blob/master/finian/Notebooks/Genius_API_Get-tracks-and-lyrics.ipynb)
