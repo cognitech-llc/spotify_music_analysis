@@ -7,7 +7,7 @@ The purpose of these analyses was to determine the perfect elements to create a 
 ![Spotify](Images/spotify.png)
 
 * Use the Spotify API to query for songs in 'Top Lists' playlist category using [/Analyses/nltk_lyric-sentiment_scores.ipynb](https://github.com/cognitech-llc/spotify_music_analysis/blob/master/Analyses/nltk_lyric-sentiment_scores.ipynb)
-* Get song lyrics using Genius API using [/finian/Notebooks/Genius_API_Get-tracks-and-lyrics.ipynb](https://github.com/cognitech-llc/spotify_music_analysis/blob/master/Analyses/Genius_API_Get-tracks-and-lyrics.ipynb)
+* Get song lyrics using Genius API using [/Analyses/Genius_API_Get-tracks-and-lyrics.ipynb](https://github.com/cognitech-llc/spotify_music_analysis/blob/master/Analyses/Genius_API_Get-tracks-and-lyrics.ipynb)
 
 * Using [/Analyses/Streaming_Rates_for_Music_with_Lyrics_versus_Music_without_Lyrics.ipynb](https://github.com/cognitech-llc/spotify_music_analysis/blob/master/Analyses/Genius_API_Get-tracks-and-lyrics.ipynb) and [/Analyses/nltk_lyric-sentiment_scores.ipynb](https://github.com/cognitech-llc/spotify_music_analysis/blob/master/Analyses/nltk_lyric-sentiment_scores.ipynb) and [Analyses/Word Frequency.ipynb](https://github.com/cognitech-llc/spotify_music_analysis/blob/master/Analyses/Word%20Frequency.ipynb), the following questions were attempted to be addressed:
 
